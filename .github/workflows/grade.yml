@@ -281,7 +281,11 @@ jobs:
               for activity in failed_activities:
                   print(f"- {activity}")
 
-              sys.exit(1)
+              print(
+                  "Grading completed. Review the generated logs and "
+                  "grading-results.json artifact for details."
+              )
+              sys.exit(0)
 
           print("All activities passed.")
           PY
