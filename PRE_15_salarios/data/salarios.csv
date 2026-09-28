@@ -1,0 +1,1001 @@
+employee_id,gerencia,departamento,trayectoria,categoria,experiencia_tecnica_anios,salario_mensual_cop
+E0001,Finanzas,Planeación financiera,Técnica,Especialista,9,9031472
+E0002,Finanzas,Planeación financiera,Técnica,Especialista,8,8784782
+E0003,Comercial,Clientes mayoristas,Técnica,Senior,14,13988237
+E0004,Comercial,Clientes mayoristas,Directiva,Senior,15,15665175
+E0005,Comercial,Clientes mayoristas,Técnica,Principal,25,20114861
+E0006,Talento,Recursos humanos,Técnica,Profesional,5,5784265
+E0007,Finanzas,Planeación financiera,Técnica,Especialista,9,9959436
+E0008,Operaciones,Tecnología,Técnica,Especialista,5,9113545
+E0009,Comercial,Clientes mayoristas,Técnica,Especialista,13,10756334
+E0010,Finanzas,Tesorería,Directiva,Especialista,5,9454050
+E0011,Comercial,Clientes mayoristas,Técnica,Profesional,6,7102996
+E0012,Talento,Recursos humanos,Técnica,Principal,17,17626926
+E0013,Talento,Recursos humanos,Técnica,Profesional,7,5906933
+E0014,Finanzas,Planeación financiera,Directiva,Senior,13,15153798
+E0015,Finanzas,Planeación financiera,Técnica,Senior,14,14175928
+E0016,Finanzas,Tesorería,Técnica,Analista,2,2552199
+E0017,Operaciones,Tecnología,Técnica,Especialista,5,8486063
+E0018,Comercial,Clientes menores,Técnica,Senior,8,10991427
+E0019,Finanzas,Tesorería,Técnica,Analista,6,3396677
+E0020,Operaciones,Operaciones,Directiva,Senior,15,15101900
+E0021,Comercial,Clientes menores,Técnica,Profesional,8,6015494
+E0022,Operaciones,Tecnología,Técnica,Senior,10,13552998
+E0023,Operaciones,Operaciones,Técnica,Profesional,9,6641528
+E0024,Operaciones,Operaciones,Técnica,Especialista,11,10178362
+E0025,Talento,Recursos humanos,Técnica,Especialista,10,8633816
+E0026,Comercial,Clientes mayoristas,Técnica,Analista,0,3806331
+E0027,Operaciones,Tecnología,Técnica,Profesional,6,6628235
+E0028,Finanzas,Tesorería,Técnica,Analista,4,3763575
+E0029,Comercial,Clientes menores,Técnica,Especialista,6,7793003
+E0030,Operaciones,Operaciones,Técnica,Analista,4,4657875
+E0031,Comercial,Clientes mayoristas,Técnica,Analista,1,4189518
+E0032,Comercial,Clientes mayoristas,Directiva,Especialista,8,11159931
+E0033,Operaciones,Operaciones,Directiva,Senior,15,15685759
+E0034,Operaciones,Operaciones,Directiva,Profesional,16,10606182
+E0035,Operaciones,Tecnología,Técnica,Senior,14,14300379
+E0036,Talento,Recursos humanos,Técnica,Especialista,12,9414462
+E0037,Operaciones,Operaciones,Técnica,Especialista,7,8945556
+E0038,Comercial,Clientes mayoristas,Directiva,Senior,9,14185951
+E0039,Comercial,Clientes mayoristas,Técnica,Profesional,6,6473296
+E0040,Finanzas,Tesorería,Técnica,Senior,16,13220270
+E0041,Finanzas,Tesorería,Técnica,Especialista,7,8073732
+E0042,Finanzas,Tesorería,Técnica,Analista,6,3933977
+E0043,Talento,Recursos humanos,Técnica,Principal,13,17364836
+E0044,Comercial,Clientes menores,Directiva,Especialista,12,11148083
+E0045,Operaciones,Operaciones,Técnica,Especialista,8,9216124
+E0046,Finanzas,Tesorería,Técnica,Especialista,8,8935428
+E0047,Talento,Recursos humanos,Técnica,Analista,2,3915603
+E0048,Comercial,Clientes mayoristas,Técnica,Profesional,10,7083559
+E0049,Operaciones,Operaciones,Técnica,Especialista,9,9796625
+E0050,Finanzas,Tesorería,Técnica,Analista,3,3655352
+E0051,Finanzas,Tesorería,Técnica,Especialista,10,8478646
+E0052,Talento,Recursos humanos,Técnica,Profesional,7,6593868
+E0053,Comercial,Clientes menores,Técnica,Senior,14,12502638
+E0054,Talento,Recursos humanos,Técnica,Senior,8,12133154
+E0055,Comercial,Clientes mayoristas,Técnica,Especialista,13,10342126
+E0056,Finanzas,Tesorería,Técnica,Profesional,12,7472516
+E0057,Operaciones,Operaciones,Técnica,Senior,10,12632632
+E0058,Operaciones,Operaciones,Técnica,Senior,8,12415843
+E0059,Operaciones,Tecnología,Técnica,Analista,7,6320683
+E0060,Operaciones,Tecnología,Directiva,Principal,21,21360766
+E0061,Talento,Recursos humanos,Técnica,Profesional,7,6990874
+E0062,Finanzas,Planeación financiera,Técnica,Profesional,6,5988954
+E0063,Operaciones,Tecnología,Técnica,Especialista,7,9033084
+E0064,Finanzas,Tesorería,Técnica,Profesional,6,5265085
+E0065,Operaciones,Operaciones,Técnica,Profesional,7,6880346
+E0066,Finanzas,Tesorería,Técnica,Senior,11,12538039
+E0067,Finanzas,Planeación financiera,Técnica,Senior,17,14162599
+E0068,Finanzas,Tesorería,Técnica,Analista,4,3893810
+E0069,Operaciones,Operaciones,Técnica,Profesional,5,6402698
+E0070,Finanzas,Tesorería,Técnica,Profesional,16,8070037
+E0071,Finanzas,Planeación financiera,Técnica,Principal,15,17576382
+E0072,Finanzas,Tesorería,Técnica,Especialista,9,8719832
+E0073,Comercial,Clientes mayoristas,Técnica,Senior,10,12981631
+E0074,Finanzas,Planeación financiera,Técnica,Senior,12,12808615
+E0075,Finanzas,Tesorería,Técnica,Profesional,3,5065801
+E0076,Comercial,Clientes menores,Directiva,Especialista,9,10790022
+E0077,Finanzas,Tesorería,Directiva,Senior,11,13631401
+E0078,Talento,Recursos humanos,Técnica,Senior,13,12890844
+E0079,Finanzas,Planeación financiera,Técnica,Profesional,4,6350597
+E0080,Operaciones,Operaciones,Directiva,Principal,13,18760032
+E0081,Finanzas,Tesorería,Técnica,Profesional,7,5315538
+E0082,Operaciones,Operaciones,Técnica,Profesional,8,6869503
+E0083,Comercial,Clientes mayoristas,Técnica,Profesional,7,7362324
+E0084,Operaciones,Operaciones,Técnica,Analista,6,4418575
+E0085,Operaciones,Tecnología,Técnica,Especialista,12,10366038
+E0086,Operaciones,Tecnología,Directiva,Senior,13,15363580
+E0087,Comercial,Clientes mayoristas,Técnica,Profesional,4,6445309
+E0088,Comercial,Clientes mayoristas,Técnica,Especialista,5,8218370
+E0089,Finanzas,Tesorería,Técnica,Especialista,7,8695341
+E0090,Operaciones,Operaciones,Técnica,Especialista,9,9481048
+E0091,Operaciones,Operaciones,Técnica,Especialista,17,10861391
+E0092,Operaciones,Operaciones,Directiva,Principal,16,19834800
+E0093,Comercial,Clientes mayoristas,Técnica,Profesional,10,7658352
+E0094,Operaciones,Tecnología,Técnica,Analista,4,4772950
+E0095,Comercial,Clientes mayoristas,Técnica,Senior,16,14124700
+E0096,Comercial,Clientes mayoristas,Técnica,Profesional,5,6225598
+E0097,Finanzas,Tesorería,Directiva,Senior,10,13130721
+E0098,Finanzas,Tesorería,Técnica,Senior,15,12965109
+E0099,Operaciones,Tecnología,Técnica,Profesional,5,6563401
+E0100,Finanzas,Tesorería,Técnica,Analista,1,2544374
+E0101,Finanzas,Tesorería,Técnica,Profesional,12,6561019
+E0102,Comercial,Clientes menores,Técnica,Principal,19,17973452
+E0103,Finanzas,Planeación financiera,Técnica,Analista,3,4551675
+E0104,Operaciones,Operaciones,Técnica,Analista,1,3575400
+E0105,Operaciones,Tecnología,Técnica,Especialista,12,10619698
+E0106,Operaciones,Tecnología,Técnica,Especialista,9,10458756
+E0107,Operaciones,Tecnología,Directiva,Principal,21,21437263
+E0108,Finanzas,Tesorería,Directiva,Especialista,5,8741725
+E0109,Finanzas,Planeación financiera,Técnica,Profesional,3,5960183
+E0110,Comercial,Clientes mayoristas,Técnica,Especialista,12,10323103
+E0111,Comercial,Clientes mayoristas,Técnica,Analista,7,5591564
+E0112,Operaciones,Tecnología,Técnica,Especialista,7,9276083
+E0113,Finanzas,Tesorería,Técnica,Profesional,11,6966857
+E0114,Finanzas,Planeación financiera,Directiva,Senior,12,14305386
+E0115,Operaciones,Operaciones,Técnica,Senior,10,11584838
+E0116,Comercial,Clientes mayoristas,Directiva,Senior,12,14835528
+E0117,Finanzas,Planeación financiera,Técnica,Especialista,13,10644775
+E0118,Finanzas,Planeación financiera,Técnica,Especialista,5,8702721
+E0119,Comercial,Clientes mayoristas,Técnica,Analista,4,4241292
+E0120,Comercial,Clientes menores,Técnica,Senior,12,12314574
+E0121,Finanzas,Tesorería,Técnica,Profesional,3,4787817
+E0122,Operaciones,Tecnología,Técnica,Especialista,11,10427159
+E0123,Operaciones,Operaciones,Técnica,Especialista,17,11119518
+E0124,Finanzas,Planeación financiera,Directiva,Senior,11,14764159
+E0125,Operaciones,Operaciones,Técnica,Profesional,3,4981612
+E0126,Operaciones,Tecnología,Técnica,Profesional,6,6133289
+E0127,Finanzas,Tesorería,Técnica,Profesional,7,5641182
+E0128,Comercial,Clientes mayoristas,Técnica,Analista,4,4567606
+E0129,Comercial,Clientes menores,Técnica,Especialista,5,8106781
+E0130,Operaciones,Operaciones,Técnica,Senior,9,12445205
+E0131,Comercial,Clientes menores,Directiva,Profesional,7,7538354
+E0132,Finanzas,Planeación financiera,Técnica,Especialista,13,10544045
+E0133,Operaciones,Tecnología,Técnica,Especialista,11,10881116
+E0134,Comercial,Clientes menores,Técnica,Profesional,2,3962617
+E0135,Operaciones,Operaciones,Técnica,Senior,11,12793943
+E0136,Comercial,Clientes mayoristas,Técnica,Profesional,6,6421090
+E0137,Operaciones,Tecnología,Directiva,Senior,19,17353049
+E0138,Operaciones,Tecnología,Directiva,Principal,18,20397250
+E0139,Talento,Recursos humanos,Directiva,Senior,12,15086836
+E0140,Finanzas,Planeación financiera,Directiva,Profesional,9,8935199
+E0141,Comercial,Clientes mayoristas,Técnica,Profesional,10,7654513
+E0142,Operaciones,Operaciones,Técnica,Profesional,7,6340689
+E0143,Operaciones,Operaciones,Técnica,Analista,8,5437032
+E0144,Finanzas,Planeación financiera,Técnica,Analista,12,6996654
+E0145,Finanzas,Planeación financiera,Técnica,Profesional,2,5551527
+E0146,Finanzas,Tesorería,Técnica,Especialista,5,7212353
+E0147,Operaciones,Operaciones,Técnica,Profesional,12,7955177
+E0148,Comercial,Clientes mayoristas,Técnica,Analista,8,5656008
+E0149,Operaciones,Operaciones,Técnica,Profesional,7,6197209
+E0150,Operaciones,Tecnología,Directiva,Senior,10,14734848
+E0151,Operaciones,Operaciones,Técnica,Senior,12,12848687
+E0152,Operaciones,Operaciones,Técnica,Profesional,8,6793197
+E0153,Comercial,Clientes mayoristas,Directiva,Senior,12,14645500
+E0154,Finanzas,Planeación financiera,Técnica,Profesional,5,6611813
+E0155,Comercial,Clientes mayoristas,Técnica,Especialista,16,11722435
+E0156,Finanzas,Planeación financiera,Técnica,Principal,17,17939267
+E0157,Comercial,Clientes mayoristas,Técnica,Principal,18,18348109
+E0158,Operaciones,Tecnología,Técnica,Especialista,5,8922937
+E0159,Operaciones,Operaciones,Técnica,Especialista,9,9311161
+E0160,Comercial,Clientes mayoristas,Técnica,Analista,4,4417319
+E0161,Comercial,Clientes menores,Directiva,Senior,14,14559018
+E0162,Talento,Recursos humanos,Técnica,Profesional,2,5047368
+E0163,Operaciones,Tecnología,Técnica,Profesional,6,7097058
+E0164,Finanzas,Planeación financiera,Técnica,Profesional,10,7183770
+E0165,Operaciones,Tecnología,Técnica,Especialista,5,8542066
+E0166,Finanzas,Tesorería,Técnica,Profesional,10,6295717
+E0167,Comercial,Clientes menores,Técnica,Senior,14,12563292
+E0168,Talento,Recursos humanos,Técnica,Especialista,8,9097178
+E0169,Comercial,Clientes menores,Técnica,Profesional,2,5200294
+E0170,Finanzas,Planeación financiera,Directiva,Profesional,8,9462613
+E0171,Operaciones,Tecnología,Técnica,Analista,2,4110589
+E0172,Comercial,Clientes mayoristas,Técnica,Analista,4,4797192
+E0173,Talento,Recursos humanos,Directiva,Senior,10,14444882
+E0174,Talento,Recursos humanos,Técnica,Senior,13,12653687
+E0175,Operaciones,Tecnología,Técnica,Senior,17,15385209
+E0176,Comercial,Clientes menores,Técnica,Principal,16,16833503
+E0177,Finanzas,Tesorería,Técnica,Principal,21,18112028
+E0178,Operaciones,Tecnología,Técnica,Especialista,11,10073495
+E0179,Talento,Recursos humanos,Directiva,Especialista,9,10895560
+E0180,Operaciones,Operaciones,Técnica,Especialista,5,8093733
+E0181,Finanzas,Planeación financiera,Técnica,Senior,17,14622466
+E0182,Finanzas,Tesorería,Técnica,Principal,19,17934678
+E0183,Operaciones,Tecnología,Técnica,Profesional,8,7522423
+E0184,Comercial,Clientes menores,Técnica,Analista,2,3091115
+E0185,Finanzas,Tesorería,Técnica,Analista,4,4237203
+E0186,Operaciones,Tecnología,Directiva,Profesional,7,8542936
+E0187,Comercial,Clientes mayoristas,Técnica,Analista,8,5695579
+E0188,Finanzas,Tesorería,Técnica,Profesional,2,4194518
+E0189,Operaciones,Operaciones,Técnica,Senior,12,13166874
+E0190,Operaciones,Operaciones,Técnica,Profesional,11,7934722
+E0191,Comercial,Clientes mayoristas,Directiva,Senior,10,14832644
+E0192,Comercial,Clientes menores,Técnica,Principal,18,16820968
+E0193,Comercial,Clientes menores,Directiva,Senior,18,15908814
+E0194,Comercial,Clientes menores,Técnica,Profesional,12,7475857
+E0195,Operaciones,Tecnología,Técnica,Especialista,5,8986071
+E0196,Operaciones,Operaciones,Técnica,Senior,8,11635442
+E0197,Finanzas,Tesorería,Técnica,Analista,2,3126724
+E0198,Comercial,Clientes mayoristas,Técnica,Especialista,11,9963108
+E0199,Talento,Recursos humanos,Técnica,Especialista,9,8959433
+E0200,Operaciones,Tecnología,Técnica,Principal,15,18636587
+E0201,Finanzas,Planeación financiera,Técnica,Especialista,11,9720731
+E0202,Operaciones,Tecnología,Técnica,Profesional,6,7245103
+E0203,Comercial,Clientes menores,Técnica,Senior,12,12771345
+E0204,Comercial,Clientes mayoristas,Directiva,Principal,19,20260194
+E0205,Operaciones,Tecnología,Técnica,Profesional,4,6074227
+E0206,Operaciones,Operaciones,Técnica,Senior,9,12169444
+E0207,Comercial,Clientes menores,Técnica,Profesional,9,5878774
+E0208,Finanzas,Tesorería,Técnica,Analista,6,4458265
+E0209,Finanzas,Planeación financiera,Técnica,Analista,8,6383082
+E0210,Comercial,Clientes mayoristas,Técnica,Principal,16,19315114
+E0211,Comercial,Clientes menores,Técnica,Profesional,5,5726213
+E0212,Talento,Recursos humanos,Técnica,Analista,11,6138834
+E0213,Operaciones,Operaciones,Técnica,Profesional,2,4972782
+E0214,Talento,Recursos humanos,Técnica,Profesional,3,5567983
+E0215,Comercial,Clientes mayoristas,Técnica,Especialista,10,9999040
+E0216,Finanzas,Tesorería,Técnica,Profesional,9,6336213
+E0217,Comercial,Clientes mayoristas,Técnica,Especialista,9,9641766
+E0218,Operaciones,Operaciones,Directiva,Profesional,3,6873886
+E0219,Finanzas,Tesorería,Técnica,Senior,8,11479200
+E0220,Operaciones,Tecnología,Técnica,Senior,14,14686398
+E0221,Talento,Recursos humanos,Técnica,Profesional,9,7099089
+E0222,Comercial,Clientes mayoristas,Técnica,Profesional,2,5860387
+E0223,Operaciones,Operaciones,Técnica,Especialista,9,8848933
+E0224,Operaciones,Tecnología,Técnica,Senior,11,13200165
+E0225,Comercial,Clientes mayoristas,Técnica,Especialista,7,8585229
+E0226,Finanzas,Tesorería,Técnica,Analista,6,3800268
+E0227,Comercial,Clientes mayoristas,Técnica,Principal,13,17484677
+E0228,Operaciones,Operaciones,Técnica,Profesional,6,6312472
+E0229,Comercial,Clientes mayoristas,Técnica,Profesional,2,4756409
+E0230,Finanzas,Planeación financiera,Directiva,Principal,12,18931191
+E0231,Talento,Recursos humanos,Técnica,Senior,11,12307035
+E0232,Operaciones,Operaciones,Técnica,Profesional,9,6389884
+E0233,Operaciones,Operaciones,Técnica,Profesional,5,5721101
+E0234,Comercial,Clientes menores,Técnica,Profesional,5,5590311
+E0235,Comercial,Clientes menores,Técnica,Profesional,4,5362223
+E0236,Finanzas,Tesorería,Técnica,Profesional,5,5804690
+E0237,Operaciones,Tecnología,Técnica,Especialista,8,8999989
+E0238,Operaciones,Operaciones,Técnica,Principal,16,17124859
+E0239,Operaciones,Tecnología,Técnica,Analista,6,5179802
+E0240,Operaciones,Tecnología,Directiva,Senior,15,16747896
+E0241,Operaciones,Operaciones,Técnica,Principal,15,17591979
+E0242,Operaciones,Tecnología,Directiva,Especialista,9,11964307
+E0243,Comercial,Clientes mayoristas,Directiva,Principal,13,19062621
+E0244,Comercial,Clientes mayoristas,Técnica,Especialista,11,9830152
+E0245,Operaciones,Operaciones,Técnica,Analista,3,3719297
+E0246,Operaciones,Operaciones,Técnica,Senior,8,12224829
+E0247,Talento,Recursos humanos,Técnica,Principal,14,17247330
+E0248,Talento,Recursos humanos,Técnica,Especialista,14,9924317
+E0249,Finanzas,Tesorería,Técnica,Profesional,2,4525039
+E0250,Talento,Recursos humanos,Técnica,Especialista,5,8363237
+E0251,Operaciones,Operaciones,Técnica,Principal,16,18249586
+E0252,Finanzas,Planeación financiera,Técnica,Principal,16,18212789
+E0253,Comercial,Clientes mayoristas,Técnica,Senior,9,12212770
+E0254,Operaciones,Tecnología,Técnica,Profesional,5,6813219
+E0255,Talento,Recursos humanos,Técnica,Especialista,8,8934199
+E0256,Comercial,Clientes menores,Técnica,Profesional,7,5318362
+E0257,Talento,Recursos humanos,Técnica,Senior,9,12740166
+E0258,Finanzas,Planeación financiera,Técnica,Profesional,9,6462160
+E0259,Talento,Recursos humanos,Técnica,Especialista,6,8294767
+E0260,Comercial,Clientes menores,Técnica,Analista,9,5046213
+E0261,Finanzas,Planeación financiera,Técnica,Principal,16,18064496
+E0262,Operaciones,Operaciones,Técnica,Analista,0,2937627
+E0263,Comercial,Clientes menores,Directiva,Especialista,7,10204212
+E0264,Finanzas,Planeación financiera,Técnica,Analista,5,5222629
+E0265,Comercial,Clientes menores,Directiva,Senior,15,14281188
+E0266,Comercial,Clientes menores,Técnica,Analista,4,3395351
+E0267,Comercial,Clientes mayoristas,Técnica,Senior,10,13572087
+E0268,Talento,Recursos humanos,Técnica,Analista,1,3552753
+E0269,Operaciones,Operaciones,Técnica,Senior,8,12223905
+E0270,Talento,Recursos humanos,Técnica,Especialista,8,8631594
+E0271,Comercial,Clientes menores,Técnica,Profesional,8,6394563
+E0272,Talento,Recursos humanos,Directiva,Senior,15,15756238
+E0273,Operaciones,Tecnología,Técnica,Senior,14,13772157
+E0274,Comercial,Clientes mayoristas,Técnica,Profesional,8,6981468
+E0275,Finanzas,Tesorería,Técnica,Senior,11,12346692
+E0276,Talento,Recursos humanos,Directiva,Senior,8,13678940
+E0277,Operaciones,Operaciones,Técnica,Senior,12,12390027
+E0278,Operaciones,Operaciones,Directiva,Senior,17,16412433
+E0279,Comercial,Clientes mayoristas,Directiva,Profesional,8,9152633
+E0280,Operaciones,Operaciones,Directiva,Senior,15,15604005
+E0281,Finanzas,Planeación financiera,Técnica,Senior,12,13775020
+E0282,Operaciones,Operaciones,Técnica,Analista,0,3784350
+E0283,Finanzas,Tesorería,Técnica,Profesional,2,4156027
+E0284,Talento,Recursos humanos,Directiva,Profesional,5,8043717
+E0285,Finanzas,Planeación financiera,Técnica,Especialista,6,8585913
+E0286,Finanzas,Tesorería,Técnica,Analista,7,5033493
+E0287,Operaciones,Tecnología,Técnica,Analista,5,4992375
+E0288,Finanzas,Tesorería,Técnica,Principal,18,17206885
+E0289,Finanzas,Tesorería,Técnica,Profesional,3,4538649
+E0290,Comercial,Clientes menores,Técnica,Senior,16,12946615
+E0291,Comercial,Clientes menores,Técnica,Especialista,6,7932839
+E0292,Comercial,Clientes menores,Técnica,Especialista,7,8188539
+E0293,Operaciones,Tecnología,Técnica,Profesional,10,8170919
+E0294,Operaciones,Operaciones,Técnica,Analista,4,4003252
+E0295,Operaciones,Operaciones,Técnica,Especialista,7,8263430
+E0296,Operaciones,Operaciones,Técnica,Analista,0,3490657
+E0297,Finanzas,Planeación financiera,Técnica,Profesional,2,5280367
+E0298,Talento,Recursos humanos,Técnica,Senior,12,13388430
+E0299,Comercial,Clientes mayoristas,Técnica,Profesional,7,6756908
+E0300,Operaciones,Tecnología,Directiva,Senior,18,16444906
+E0301,Operaciones,Operaciones,Técnica,Profesional,2,5619375
+E0302,Operaciones,Tecnología,Técnica,Especialista,12,10513441
+E0303,Operaciones,Tecnología,Técnica,Profesional,10,8392869
+E0304,Comercial,Clientes mayoristas,Directiva,Principal,21,21420617
+E0305,Operaciones,Tecnología,Técnica,Principal,22,19984504
+E0306,Finanzas,Tesorería,Directiva,Profesional,8,8018034
+E0307,Finanzas,Planeación financiera,Técnica,Senior,9,12939683
+E0308,Operaciones,Operaciones,Técnica,Senior,12,13230076
+E0309,Operaciones,Tecnología,Técnica,Profesional,2,5614548
+E0310,Finanzas,Planeación financiera,Técnica,Especialista,14,11183647
+E0311,Talento,Recursos humanos,Directiva,Senior,9,13524693
+E0312,Comercial,Clientes menores,Directiva,Senior,13,14117467
+E0313,Comercial,Clientes mayoristas,Técnica,Profesional,9,7952399
+E0314,Finanzas,Tesorería,Técnica,Principal,12,15792852
+E0315,Comercial,Clientes mayoristas,Técnica,Profesional,6,6595236
+E0316,Finanzas,Tesorería,Técnica,Profesional,8,5846627
+E0317,Operaciones,Operaciones,Técnica,Senior,14,12657414
+E0318,Comercial,Clientes mayoristas,Técnica,Analista,4,4531001
+E0319,Finanzas,Tesorería,Técnica,Principal,12,15690191
+E0320,Operaciones,Tecnología,Técnica,Senior,9,12756357
+E0321,Comercial,Clientes mayoristas,Técnica,Principal,19,18826724
+E0322,Finanzas,Planeación financiera,Técnica,Principal,16,17585276
+E0323,Comercial,Clientes mayoristas,Técnica,Especialista,13,10492412
+E0324,Comercial,Clientes mayoristas,Técnica,Analista,7,5239941
+E0325,Talento,Recursos humanos,Directiva,Senior,12,14743364
+E0326,Comercial,Clientes mayoristas,Técnica,Especialista,8,9566446
+E0327,Comercial,Clientes mayoristas,Técnica,Principal,15,17907198
+E0328,Comercial,Clientes mayoristas,Técnica,Profesional,8,7550254
+E0329,Comercial,Clientes mayoristas,Técnica,Analista,10,5274618
+E0330,Operaciones,Tecnología,Técnica,Profesional,2,6665516
+E0331,Finanzas,Tesorería,Directiva,Especialista,7,10308445
+E0332,Operaciones,Operaciones,Técnica,Especialista,10,9917345
+E0333,Comercial,Clientes menores,Directiva,Especialista,6,9977091
+E0334,Comercial,Clientes mayoristas,Técnica,Senior,8,12035991
+E0335,Operaciones,Tecnología,Técnica,Profesional,4,6414928
+E0336,Talento,Recursos humanos,Técnica,Analista,0,2758318
+E0337,Finanzas,Tesorería,Técnica,Profesional,7,5665291
+E0338,Operaciones,Operaciones,Técnica,Principal,15,17170041
+E0339,Comercial,Clientes mayoristas,Directiva,Senior,20,17031665
+E0340,Comercial,Clientes mayoristas,Técnica,Especialista,11,10845309
+E0341,Operaciones,Operaciones,Técnica,Analista,4,4696400
+E0342,Comercial,Clientes menores,Directiva,Senior,10,13669806
+E0343,Comercial,Clientes mayoristas,Directiva,Senior,13,15030231
+E0344,Finanzas,Tesorería,Técnica,Senior,10,12072822
+E0345,Comercial,Clientes menores,Técnica,Analista,5,3789760
+E0346,Comercial,Clientes menores,Técnica,Senior,11,12429356
+E0347,Operaciones,Operaciones,Técnica,Senior,18,13816352
+E0348,Talento,Recursos humanos,Técnica,Especialista,6,8084194
+E0349,Comercial,Clientes menores,Técnica,Profesional,9,6558858
+E0350,Operaciones,Operaciones,Directiva,Especialista,11,12520551
+E0351,Finanzas,Tesorería,Técnica,Principal,15,16578264
+E0352,Operaciones,Operaciones,Técnica,Analista,3,4073110
+E0353,Talento,Recursos humanos,Técnica,Analista,0,3063976
+E0354,Operaciones,Tecnología,Técnica,Profesional,4,6230725
+E0355,Finanzas,Tesorería,Directiva,Senior,13,14123019
+E0356,Operaciones,Operaciones,Técnica,Analista,3,3920383
+E0357,Talento,Recursos humanos,Directiva,Senior,8,13402408
+E0358,Finanzas,Tesorería,Técnica,Profesional,8,6121179
+E0359,Talento,Recursos humanos,Técnica,Senior,10,12577577
+E0360,Comercial,Clientes mayoristas,Técnica,Principal,18,18405212
+E0361,Operaciones,Tecnología,Técnica,Principal,19,18698831
+E0362,Finanzas,Planeación financiera,Técnica,Analista,10,6640659
+E0363,Comercial,Clientes mayoristas,Directiva,Senior,11,14538626
+E0364,Operaciones,Operaciones,Técnica,Senior,12,12586365
+E0365,Comercial,Clientes menores,Técnica,Especialista,7,8097986
+E0366,Comercial,Clientes menores,Técnica,Senior,15,13177580
+E0367,Comercial,Clientes menores,Técnica,Especialista,9,8154618
+E0368,Comercial,Clientes mayoristas,Técnica,Senior,8,12573320
+E0369,Operaciones,Operaciones,Técnica,Especialista,10,9866508
+E0370,Operaciones,Operaciones,Técnica,Profesional,6,6321354
+E0371,Operaciones,Tecnología,Técnica,Analista,3,4530158
+E0372,Operaciones,Operaciones,Directiva,Principal,16,19491815
+E0373,Comercial,Clientes menores,Técnica,Analista,3,3695620
+E0374,Comercial,Clientes menores,Directiva,Especialista,10,10450006
+E0375,Finanzas,Tesorería,Técnica,Profesional,9,6222081
+E0376,Finanzas,Tesorería,Directiva,Especialista,6,9979028
+E0377,Talento,Recursos humanos,Técnica,Especialista,5,7864260
+E0378,Operaciones,Operaciones,Directiva,Especialista,12,12065912
+E0379,Operaciones,Operaciones,Directiva,Senior,8,14273893
+E0380,Operaciones,Tecnología,Técnica,Especialista,12,10149482
+E0381,Operaciones,Tecnología,Directiva,Senior,11,15274518
+E0382,Operaciones,Tecnología,Directiva,Senior,8,14418877
+E0383,Finanzas,Planeación financiera,Directiva,Especialista,10,11476838
+E0384,Talento,Recursos humanos,Técnica,Profesional,6,6124390
+E0385,Finanzas,Tesorería,Técnica,Profesional,8,6205088
+E0386,Operaciones,Operaciones,Técnica,Analista,2,4127342
+E0387,Operaciones,Operaciones,Técnica,Principal,15,17806574
+E0388,Comercial,Clientes menores,Directiva,Senior,9,12964384
+E0389,Comercial,Clientes menores,Directiva,Principal,20,19679149
+E0390,Operaciones,Tecnología,Directiva,Senior,15,15888629
+E0391,Finanzas,Tesorería,Técnica,Analista,5,4054972
+E0392,Operaciones,Tecnología,Técnica,Analista,3,4396350
+E0393,Operaciones,Tecnología,Técnica,Analista,5,5155925
+E0394,Operaciones,Operaciones,Técnica,Profesional,4,6108131
+E0395,Comercial,Clientes mayoristas,Técnica,Analista,6,5006452
+E0396,Finanzas,Tesorería,Técnica,Especialista,12,8955948
+E0397,Comercial,Clientes menores,Directiva,Principal,19,19702240
+E0398,Comercial,Clientes menores,Técnica,Profesional,4,5296402
+E0399,Talento,Recursos humanos,Técnica,Profesional,6,6029747
+E0400,Talento,Recursos humanos,Técnica,Especialista,7,8980577
+E0401,Comercial,Clientes menores,Técnica,Principal,12,16024060
+E0402,Operaciones,Tecnología,Técnica,Especialista,12,10229389
+E0403,Finanzas,Tesorería,Técnica,Especialista,7,8735076
+E0404,Finanzas,Planeación financiera,Técnica,Especialista,11,9863717
+E0405,Operaciones,Tecnología,Técnica,Principal,16,17952455
+E0406,Comercial,Clientes menores,Directiva,Especialista,14,11110083
+E0407,Talento,Recursos humanos,Técnica,Profesional,5,5488440
+E0408,Operaciones,Tecnología,Técnica,Principal,12,16926943
+E0409,Talento,Recursos humanos,Técnica,Analista,1,3178968
+E0410,Comercial,Clientes mayoristas,Técnica,Senior,11,13356950
+E0411,Operaciones,Operaciones,Técnica,Profesional,5,6139219
+E0412,Operaciones,Operaciones,Técnica,Analista,6,5218555
+E0413,Finanzas,Tesorería,Técnica,Analista,2,3277126
+E0414,Operaciones,Operaciones,Técnica,Profesional,9,6938031
+E0415,Comercial,Clientes menores,Técnica,Senior,14,12686215
+E0416,Operaciones,Operaciones,Técnica,Profesional,2,5371511
+E0417,Operaciones,Operaciones,Técnica,Profesional,4,5802134
+E0418,Finanzas,Tesorería,Técnica,Analista,4,3452329
+E0419,Comercial,Clientes mayoristas,Técnica,Profesional,7,6819243
+E0420,Operaciones,Operaciones,Directiva,Senior,8,13881149
+E0421,Comercial,Clientes menores,Técnica,Profesional,2,4733972
+E0422,Operaciones,Operaciones,Técnica,Analista,5,4724879
+E0423,Finanzas,Planeación financiera,Directiva,Principal,13,18781294
+E0424,Operaciones,Operaciones,Técnica,Especialista,9,8998711
+E0425,Finanzas,Tesorería,Técnica,Analista,4,3462953
+E0426,Operaciones,Tecnología,Técnica,Profesional,7,6263997
+E0427,Operaciones,Operaciones,Técnica,Senior,9,11489523
+E0428,Finanzas,Planeación financiera,Directiva,Profesional,3,7145731
+E0429,Operaciones,Tecnología,Técnica,Profesional,7,7679444
+E0430,Comercial,Clientes mayoristas,Técnica,Analista,0,3928534
+E0431,Comercial,Clientes menores,Técnica,Especialista,11,8951314
+E0432,Talento,Recursos humanos,Directiva,Especialista,12,11885782
+E0433,Comercial,Clientes mayoristas,Directiva,Principal,20,21115994
+E0434,Talento,Recursos humanos,Técnica,Senior,15,12844199
+E0435,Finanzas,Tesorería,Técnica,Profesional,10,6679442
+E0436,Operaciones,Operaciones,Técnica,Principal,17,18383499
+E0437,Comercial,Clientes mayoristas,Técnica,Analista,2,4281223
+E0438,Comercial,Clientes mayoristas,Técnica,Senior,13,13420515
+E0439,Finanzas,Planeación financiera,Técnica,Especialista,11,10053266
+E0440,Comercial,Clientes mayoristas,Directiva,Principal,15,18941334
+E0441,Finanzas,Tesorería,Técnica,Profesional,4,4980377
+E0442,Finanzas,Tesorería,Técnica,Senior,8,11172801
+E0443,Finanzas,Tesorería,Técnica,Analista,7,4385050
+E0444,Comercial,Clientes mayoristas,Técnica,Senior,13,13803758
+E0445,Talento,Recursos humanos,Técnica,Analista,5,4355686
+E0446,Finanzas,Tesorería,Técnica,Especialista,8,7985223
+E0447,Comercial,Clientes menores,Técnica,Senior,12,12379511
+E0448,Comercial,Clientes mayoristas,Técnica,Senior,13,13446105
+E0449,Comercial,Clientes menores,Técnica,Profesional,4,5078096
+E0450,Comercial,Clientes mayoristas,Directiva,Principal,13,19193004
+E0451,Comercial,Clientes menores,Técnica,Senior,8,10825527
+E0452,Comercial,Clientes mayoristas,Técnica,Analista,8,5876225
+E0453,Operaciones,Operaciones,Técnica,Profesional,4,5726423
+E0454,Operaciones,Tecnología,Directiva,Principal,16,20213584
+E0455,Operaciones,Operaciones,Técnica,Analista,3,4190299
+E0456,Operaciones,Tecnología,Técnica,Analista,7,5358068
+E0457,Comercial,Clientes menores,Técnica,Especialista,8,7801951
+E0458,Finanzas,Tesorería,Técnica,Profesional,3,5387839
+E0459,Operaciones,Operaciones,Directiva,Senior,8,14149617
+E0460,Talento,Recursos humanos,Técnica,Profesional,4,5875169
+E0461,Operaciones,Operaciones,Técnica,Especialista,13,9988191
+E0462,Comercial,Clientes menores,Técnica,Profesional,7,5950462
+E0463,Comercial,Clientes mayoristas,Directiva,Principal,12,18844942
+E0464,Operaciones,Tecnología,Técnica,Principal,17,18551091
+E0465,Comercial,Clientes menores,Directiva,Principal,12,18139106
+E0466,Finanzas,Tesorería,Técnica,Profesional,3,5604532
+E0467,Finanzas,Tesorería,Técnica,Analista,5,3708489
+E0468,Finanzas,Planeación financiera,Técnica,Especialista,9,10174169
+E0469,Operaciones,Tecnología,Técnica,Especialista,12,10558703
+E0470,Finanzas,Planeación financiera,Técnica,Senior,12,12997259
+E0471,Talento,Recursos humanos,Directiva,Senior,8,14009047
+E0472,Comercial,Clientes menores,Técnica,Principal,17,16643310
+E0473,Comercial,Clientes menores,Técnica,Analista,0,2595612
+E0474,Operaciones,Tecnología,Técnica,Profesional,9,8270093
+E0475,Operaciones,Tecnología,Técnica,Senior,11,13510349
+E0476,Comercial,Clientes mayoristas,Técnica,Especialista,10,9477130
+E0477,Operaciones,Operaciones,Técnica,Senior,12,13719208
+E0478,Operaciones,Tecnología,Técnica,Especialista,12,10124595
+E0479,Finanzas,Planeación financiera,Técnica,Especialista,8,9229902
+E0480,Operaciones,Tecnología,Técnica,Senior,13,13470305
+E0481,Comercial,Clientes menores,Directiva,Principal,22,19392786
+E0482,Operaciones,Tecnología,Técnica,Especialista,6,9349431
+E0483,Comercial,Clientes mayoristas,Técnica,Especialista,7,9678860
+E0484,Finanzas,Tesorería,Técnica,Profesional,6,5672073
+E0485,Operaciones,Operaciones,Técnica,Especialista,6,8510904
+E0486,Comercial,Clientes mayoristas,Técnica,Profesional,6,6356797
+E0487,Comercial,Clientes mayoristas,Técnica,Especialista,10,9936567
+E0488,Finanzas,Planeación financiera,Técnica,Especialista,16,11092306
+E0489,Finanzas,Planeación financiera,Técnica,Senior,10,12342340
+E0490,Talento,Recursos humanos,Técnica,Senior,8,11922877
+E0491,Operaciones,Tecnología,Directiva,Especialista,10,11860205
+E0492,Operaciones,Tecnología,Técnica,Profesional,10,7824087
+E0493,Comercial,Clientes mayoristas,Directiva,Senior,10,14646628
+E0494,Operaciones,Tecnología,Técnica,Profesional,3,6401404
+E0495,Finanzas,Tesorería,Técnica,Profesional,6,5752826
+E0496,Finanzas,Tesorería,Técnica,Senior,13,12522527
+E0497,Talento,Recursos humanos,Directiva,Especialista,14,12471219
+E0498,Operaciones,Tecnología,Técnica,Profesional,9,7626511
+E0499,Finanzas,Tesorería,Técnica,Especialista,11,9250204
+E0500,Operaciones,Operaciones,Técnica,Analista,4,4176430
+E0501,Finanzas,Planeación financiera,Directiva,Especialista,11,11777051
+E0502,Operaciones,Operaciones,Directiva,Principal,22,21101543
+E0503,Operaciones,Operaciones,Técnica,Especialista,7,8432632
+E0504,Talento,Recursos humanos,Técnica,Senior,10,11807356
+E0505,Comercial,Clientes menores,Técnica,Profesional,6,5670397
+E0506,Comercial,Clientes mayoristas,Técnica,Especialista,15,10784478
+E0507,Operaciones,Operaciones,Directiva,Senior,12,15225367
+E0508,Operaciones,Operaciones,Técnica,Especialista,5,7825569
+E0509,Finanzas,Tesorería,Técnica,Profesional,2,5269816
+E0510,Talento,Recursos humanos,Técnica,Senior,9,11975649
+E0511,Comercial,Clientes menores,Técnica,Profesional,2,4158324
+E0512,Finanzas,Planeación financiera,Técnica,Especialista,5,8946313
+E0513,Finanzas,Tesorería,Técnica,Profesional,9,6769376
+E0514,Operaciones,Operaciones,Técnica,Profesional,13,7900582
+E0515,Operaciones,Operaciones,Técnica,Principal,14,16772707
+E0516,Talento,Recursos humanos,Directiva,Senior,9,13789578
+E0517,Finanzas,Tesorería,Directiva,Especialista,6,10120596
+E0518,Operaciones,Tecnología,Técnica,Especialista,12,10581726
+E0519,Talento,Recursos humanos,Directiva,Senior,10,14576938
+E0520,Operaciones,Operaciones,Técnica,Profesional,9,7232861
+E0521,Operaciones,Operaciones,Directiva,Principal,12,19217838
+E0522,Comercial,Clientes mayoristas,Técnica,Profesional,11,7946256
+E0523,Talento,Recursos humanos,Técnica,Principal,19,18236216
+E0524,Talento,Recursos humanos,Técnica,Senior,15,13764796
+E0525,Finanzas,Planeación financiera,Técnica,Profesional,8,6781868
+E0526,Operaciones,Tecnología,Técnica,Principal,18,19359918
+E0527,Operaciones,Operaciones,Técnica,Profesional,3,5220725
+E0528,Comercial,Clientes menores,Técnica,Analista,8,4570298
+E0529,Operaciones,Tecnología,Directiva,Especialista,9,11822299
+E0530,Comercial,Clientes mayoristas,Técnica,Analista,6,5438115
+E0531,Operaciones,Tecnología,Técnica,Especialista,12,10988011
+E0532,Finanzas,Planeación financiera,Técnica,Profesional,4,6458985
+E0533,Finanzas,Tesorería,Técnica,Especialista,12,9802879
+E0534,Operaciones,Operaciones,Técnica,Especialista,11,9831318
+E0535,Comercial,Clientes menores,Técnica,Profesional,9,6572902
+E0536,Operaciones,Operaciones,Técnica,Especialista,5,8094532
+E0537,Operaciones,Tecnología,Técnica,Analista,1,4167933
+E0538,Operaciones,Tecnología,Técnica,Analista,6,5770991
+E0539,Operaciones,Operaciones,Técnica,Especialista,5,8113048
+E0540,Comercial,Clientes mayoristas,Técnica,Senior,12,13823101
+E0541,Talento,Recursos humanos,Técnica,Analista,6,4117803
+E0542,Finanzas,Tesorería,Técnica,Profesional,7,6108247
+E0543,Finanzas,Tesorería,Técnica,Profesional,6,5713342
+E0544,Operaciones,Operaciones,Técnica,Profesional,2,5542884
+E0545,Comercial,Clientes mayoristas,Directiva,Principal,13,19143044
+E0546,Finanzas,Tesorería,Técnica,Profesional,7,6394641
+E0547,Finanzas,Tesorería,Técnica,Especialista,13,9468506
+E0548,Comercial,Clientes mayoristas,Técnica,Profesional,2,5985567
+E0549,Operaciones,Operaciones,Técnica,Profesional,6,6680904
+E0550,Operaciones,Operaciones,Técnica,Senior,10,12463344
+E0551,Comercial,Clientes menores,Técnica,Principal,18,17269100
+E0552,Operaciones,Operaciones,Técnica,Especialista,9,10256295
+E0553,Operaciones,Tecnología,Directiva,Senior,13,15543960
+E0554,Comercial,Clientes mayoristas,Directiva,Profesional,6,7835720
+E0555,Operaciones,Operaciones,Técnica,Especialista,9,8412651
+E0556,Comercial,Clientes menores,Directiva,Principal,20,19905387
+E0557,Comercial,Clientes menores,Técnica,Profesional,4,5242808
+E0558,Finanzas,Tesorería,Técnica,Analista,5,4192138
+E0559,Finanzas,Planeación financiera,Directiva,Principal,22,21465350
+E0560,Comercial,Clientes menores,Directiva,Senior,10,13323248
+E0561,Finanzas,Tesorería,Técnica,Profesional,3,5080080
+E0562,Operaciones,Operaciones,Directiva,Senior,14,15443480
+E0563,Operaciones,Operaciones,Técnica,Analista,5,4421027
+E0564,Comercial,Clientes menores,Técnica,Senior,12,11961497
+E0565,Comercial,Clientes menores,Directiva,Senior,11,14063252
+E0566,Operaciones,Tecnología,Técnica,Senior,13,13975698
+E0567,Finanzas,Tesorería,Directiva,Profesional,7,7414797
+E0568,Talento,Recursos humanos,Directiva,Principal,14,19145313
+E0569,Finanzas,Planeación financiera,Técnica,Senior,9,12652432
+E0570,Operaciones,Operaciones,Técnica,Analista,5,4732508
+E0571,Operaciones,Operaciones,Técnica,Especialista,9,9281382
+E0572,Comercial,Clientes menores,Técnica,Profesional,8,6099483
+E0573,Comercial,Clientes mayoristas,Técnica,Senior,12,13043788
+E0574,Operaciones,Tecnología,Técnica,Analista,3,5125822
+E0575,Comercial,Clientes menores,Directiva,Senior,8,12563179
+E0576,Operaciones,Operaciones,Técnica,Profesional,9,7057236
+E0577,Operaciones,Tecnología,Técnica,Senior,15,14171104
+E0578,Comercial,Clientes menores,Técnica,Especialista,6,7272196
+E0579,Comercial,Clientes mayoristas,Técnica,Especialista,7,8826818
+E0580,Operaciones,Tecnología,Técnica,Especialista,11,10443948
+E0581,Operaciones,Tecnología,Técnica,Especialista,5,9320254
+E0582,Operaciones,Tecnología,Directiva,Especialista,8,11569584
+E0583,Talento,Recursos humanos,Técnica,Especialista,14,10416747
+E0584,Finanzas,Tesorería,Técnica,Analista,1,3126873
+E0585,Operaciones,Tecnología,Técnica,Profesional,2,6397803
+E0586,Comercial,Clientes mayoristas,Técnica,Profesional,5,6730090
+E0587,Operaciones,Operaciones,Técnica,Senior,17,14248802
+E0588,Operaciones,Tecnología,Técnica,Profesional,6,7402873
+E0589,Finanzas,Planeación financiera,Técnica,Especialista,12,10356234
+E0590,Operaciones,Operaciones,Técnica,Analista,0,3480665
+E0591,Comercial,Clientes mayoristas,Técnica,Profesional,7,7777680
+E0592,Operaciones,Tecnología,Técnica,Analista,7,5587602
+E0593,Finanzas,Tesorería,Técnica,Profesional,6,5709312
+E0594,Comercial,Clientes mayoristas,Técnica,Analista,8,6234025
+E0595,Operaciones,Operaciones,Técnica,Senior,8,12060008
+E0596,Comercial,Clientes menores,Directiva,Principal,18,19080750
+E0597,Operaciones,Tecnología,Técnica,Profesional,7,7122930
+E0598,Operaciones,Operaciones,Técnica,Principal,12,16440391
+E0599,Operaciones,Operaciones,Técnica,Especialista,17,11216944
+E0600,Finanzas,Planeación financiera,Técnica,Profesional,4,6244345
+E0601,Operaciones,Tecnología,Técnica,Senior,11,12986825
+E0602,Finanzas,Tesorería,Técnica,Senior,8,11363169
+E0603,Comercial,Clientes menores,Directiva,Principal,12,17850693
+E0604,Comercial,Clientes mayoristas,Directiva,Senior,12,15484576
+E0605,Operaciones,Operaciones,Técnica,Profesional,3,5820737
+E0606,Comercial,Clientes mayoristas,Técnica,Especialista,9,9278398
+E0607,Finanzas,Planeación financiera,Técnica,Profesional,7,6650394
+E0608,Finanzas,Tesorería,Técnica,Especialista,5,7176676
+E0609,Comercial,Clientes mayoristas,Técnica,Senior,10,13679657
+E0610,Comercial,Clientes menores,Técnica,Profesional,4,4931128
+E0611,Comercial,Clientes menores,Técnica,Profesional,8,5658568
+E0612,Comercial,Clientes mayoristas,Técnica,Especialista,12,10472692
+E0613,Comercial,Clientes mayoristas,Directiva,Senior,15,15350307
+E0614,Comercial,Clientes menores,Técnica,Senior,12,11886247
+E0615,Operaciones,Tecnología,Técnica,Principal,12,17427661
+E0616,Operaciones,Tecnología,Directiva,Senior,12,15195395
+E0617,Comercial,Clientes mayoristas,Técnica,Analista,0,3572821
+E0618,Comercial,Clientes mayoristas,Directiva,Especialista,7,10862771
+E0619,Finanzas,Tesorería,Técnica,Profesional,8,6246919
+E0620,Operaciones,Tecnología,Técnica,Senior,19,15835176
+E0621,Finanzas,Tesorería,Técnica,Profesional,7,5853123
+E0622,Operaciones,Tecnología,Técnica,Profesional,8,7520739
+E0623,Finanzas,Tesorería,Técnica,Principal,14,16121144
+E0624,Talento,Recursos humanos,Directiva,Senior,12,14414090
+E0625,Operaciones,Operaciones,Directiva,Principal,13,18441927
+E0626,Operaciones,Operaciones,Directiva,Profesional,9,8974479
+E0627,Operaciones,Tecnología,Técnica,Especialista,11,10279131
+E0628,Finanzas,Tesorería,Directiva,Senior,11,13412338
+E0629,Operaciones,Tecnología,Técnica,Especialista,9,9613681
+E0630,Comercial,Clientes menores,Técnica,Especialista,5,7721302
+E0631,Talento,Recursos humanos,Técnica,Profesional,2,5471729
+E0632,Operaciones,Tecnología,Técnica,Analista,0,4201918
+E0633,Operaciones,Tecnología,Técnica,Profesional,2,5947888
+E0634,Comercial,Clientes menores,Técnica,Senior,17,13241039
+E0635,Comercial,Clientes menores,Técnica,Analista,0,2612596
+E0636,Operaciones,Operaciones,Técnica,Profesional,14,8121742
+E0637,Operaciones,Operaciones,Técnica,Analista,0,3180193
+E0638,Finanzas,Planeación financiera,Técnica,Analista,1,3555658
+E0639,Comercial,Clientes menores,Técnica,Especialista,9,8108667
+E0640,Operaciones,Operaciones,Directiva,Principal,18,20181052
+E0641,Comercial,Clientes menores,Directiva,Profesional,11,8461535
+E0642,Finanzas,Planeación financiera,Técnica,Especialista,12,10573050
+E0643,Talento,Recursos humanos,Técnica,Especialista,8,8731362
+E0644,Comercial,Clientes menores,Directiva,Senior,15,14632908
+E0645,Comercial,Clientes mayoristas,Directiva,Principal,17,19577773
+E0646,Finanzas,Tesorería,Técnica,Especialista,6,8140315
+E0647,Operaciones,Operaciones,Técnica,Especialista,16,11555921
+E0648,Operaciones,Operaciones,Técnica,Profesional,6,6214519
+E0649,Finanzas,Planeación financiera,Técnica,Especialista,9,9604637
+E0650,Operaciones,Operaciones,Directiva,Senior,14,15250085
+E0651,Operaciones,Operaciones,Técnica,Senior,15,13389927
+E0652,Comercial,Clientes menores,Técnica,Analista,3,3646389
+E0653,Operaciones,Operaciones,Técnica,Senior,13,13036909
+E0654,Talento,Recursos humanos,Técnica,Analista,1,3493022
+E0655,Comercial,Clientes menores,Directiva,Senior,13,14123819
+E0656,Operaciones,Operaciones,Técnica,Especialista,14,11082572
+E0657,Talento,Recursos humanos,Técnica,Especialista,5,7341576
+E0658,Operaciones,Operaciones,Técnica,Especialista,9,8975906
+E0659,Talento,Recursos humanos,Técnica,Especialista,13,9386311
+E0660,Finanzas,Tesorería,Técnica,Profesional,12,7657436
+E0661,Operaciones,Operaciones,Directiva,Principal,19,20197760
+E0662,Talento,Recursos humanos,Técnica,Analista,4,4128090
+E0663,Comercial,Clientes menores,Directiva,Senior,12,13709949
+E0664,Comercial,Clientes mayoristas,Técnica,Analista,3,4639245
+E0665,Comercial,Clientes menores,Técnica,Profesional,11,6876417
+E0666,Finanzas,Planeación financiera,Técnica,Principal,14,17578464
+E0667,Operaciones,Tecnología,Técnica,Principal,14,17707063
+E0668,Comercial,Clientes mayoristas,Directiva,Principal,14,19600933
+E0669,Finanzas,Planeación financiera,Técnica,Profesional,4,6056323
+E0670,Operaciones,Operaciones,Técnica,Senior,13,13270854
+E0671,Talento,Recursos humanos,Técnica,Principal,12,17185952
+E0672,Talento,Recursos humanos,Técnica,Profesional,9,6564983
+E0673,Finanzas,Planeación financiera,Técnica,Analista,0,3465578
+E0674,Operaciones,Operaciones,Técnica,Especialista,13,9835183
+E0675,Comercial,Clientes mayoristas,Técnica,Profesional,3,5543448
+E0676,Talento,Recursos humanos,Técnica,Especialista,9,9088584
+E0677,Operaciones,Tecnología,Técnica,Analista,4,4957609
+E0678,Finanzas,Planeación financiera,Técnica,Profesional,2,5751116
+E0679,Comercial,Clientes mayoristas,Técnica,Senior,8,12388704
+E0680,Comercial,Clientes mayoristas,Técnica,Especialista,5,9210076
+E0681,Comercial,Clientes mayoristas,Técnica,Profesional,9,7214599
+E0682,Talento,Recursos humanos,Técnica,Profesional,12,7451732
+E0683,Talento,Recursos humanos,Directiva,Principal,18,18667701
+E0684,Comercial,Clientes menores,Técnica,Senior,11,12098949
+E0685,Talento,Recursos humanos,Directiva,Senior,8,14595465
+E0686,Comercial,Clientes menores,Técnica,Analista,0,2101179
+E0687,Comercial,Clientes mayoristas,Directiva,Senior,8,14403754
+E0688,Finanzas,Planeación financiera,Técnica,Especialista,9,9747111
+E0689,Finanzas,Planeación financiera,Técnica,Especialista,7,8816050
+E0690,Finanzas,Planeación financiera,Técnica,Analista,0,3446711
+E0691,Operaciones,Operaciones,Técnica,Senior,14,13864970
+E0692,Comercial,Clientes menores,Técnica,Analista,4,3128308
+E0693,Comercial,Clientes menores,Técnica,Profesional,6,5377858
+E0694,Comercial,Clientes menores,Directiva,Principal,21,19808234
+E0695,Comercial,Clientes mayoristas,Técnica,Profesional,7,7250601
+E0696,Operaciones,Operaciones,Técnica,Profesional,8,6866476
+E0697,Comercial,Clientes mayoristas,Técnica,Especialista,5,8307791
+E0698,Comercial,Clientes menores,Técnica,Especialista,12,9047318
+E0699,Finanzas,Planeación financiera,Técnica,Analista,4,4514923
+E0700,Comercial,Clientes mayoristas,Técnica,Especialista,9,8963580
+E0701,Operaciones,Operaciones,Técnica,Profesional,2,5484335
+E0702,Operaciones,Tecnología,Técnica,Analista,5,4477717
+E0703,Comercial,Clientes menores,Técnica,Profesional,9,6184895
+E0704,Finanzas,Planeación financiera,Técnica,Principal,18,18324152
+E0705,Operaciones,Tecnología,Técnica,Principal,16,18335743
+E0706,Finanzas,Planeación financiera,Técnica,Senior,8,12312730
+E0707,Comercial,Clientes menores,Directiva,Especialista,9,10212726
+E0708,Operaciones,Operaciones,Técnica,Especialista,11,9882900
+E0709,Talento,Recursos humanos,Directiva,Senior,13,14626701
+E0710,Comercial,Clientes mayoristas,Técnica,Principal,12,17110627
+E0711,Finanzas,Planeación financiera,Técnica,Senior,12,13792217
+E0712,Talento,Recursos humanos,Técnica,Especialista,5,7959706
+E0713,Finanzas,Tesorería,Técnica,Profesional,4,5209940
+E0714,Finanzas,Planeación financiera,Técnica,Profesional,6,6901999
+E0715,Operaciones,Operaciones,Técnica,Profesional,5,5990816
+E0716,Finanzas,Planeación financiera,Técnica,Profesional,7,6345569
+E0717,Operaciones,Operaciones,Técnica,Profesional,2,5343530
+E0718,Comercial,Clientes mayoristas,Técnica,Senior,11,12650267
+E0719,Operaciones,Tecnología,Técnica,Especialista,9,9691507
+E0720,Operaciones,Operaciones,Técnica,Profesional,4,6614353
+E0721,Comercial,Clientes mayoristas,Técnica,Profesional,3,6329370
+E0722,Finanzas,Tesorería,Técnica,Analista,5,3379671
+E0723,Operaciones,Operaciones,Técnica,Analista,0,3292265
+E0724,Talento,Recursos humanos,Técnica,Senior,8,12033484
+E0725,Finanzas,Tesorería,Técnica,Especialista,5,7421436
+E0726,Talento,Recursos humanos,Directiva,Especialista,11,10596769
+E0727,Operaciones,Operaciones,Técnica,Analista,0,3517864
+E0728,Operaciones,Operaciones,Técnica,Senior,13,12526754
+E0729,Operaciones,Operaciones,Técnica,Especialista,11,9876185
+E0730,Operaciones,Tecnología,Técnica,Profesional,4,6067874
+E0731,Operaciones,Tecnología,Técnica,Senior,11,13620634
+E0732,Comercial,Clientes mayoristas,Técnica,Profesional,8,7923654
+E0733,Finanzas,Tesorería,Técnica,Analista,5,3967227
+E0734,Finanzas,Tesorería,Directiva,Especialista,6,9881878
+E0735,Finanzas,Planeación financiera,Técnica,Especialista,5,8802468
+E0736,Operaciones,Operaciones,Técnica,Profesional,3,5409401
+E0737,Finanzas,Planeación financiera,Técnica,Profesional,4,6115181
+E0738,Finanzas,Planeación financiera,Técnica,Senior,13,12742399
+E0739,Finanzas,Tesorería,Técnica,Senior,16,13518558
+E0740,Talento,Recursos humanos,Técnica,Principal,15,17522517
+E0741,Comercial,Clientes menores,Técnica,Profesional,6,5868369
+E0742,Talento,Recursos humanos,Técnica,Especialista,8,8569187
+E0743,Finanzas,Planeación financiera,Técnica,Analista,0,3131958
+E0744,Talento,Recursos humanos,Técnica,Especialista,12,9702745
+E0745,Operaciones,Operaciones,Técnica,Profesional,7,5745156
+E0746,Talento,Recursos humanos,Técnica,Profesional,8,6850040
+E0747,Comercial,Clientes mayoristas,Técnica,Profesional,9,7610288
+E0748,Operaciones,Tecnología,Técnica,Profesional,6,7353904
+E0749,Finanzas,Tesorería,Técnica,Analista,4,3128113
+E0750,Finanzas,Tesorería,Técnica,Senior,14,12852606
+E0751,Talento,Recursos humanos,Técnica,Profesional,10,7280692
+E0752,Operaciones,Operaciones,Directiva,Senior,21,17345209
+E0753,Comercial,Clientes mayoristas,Técnica,Analista,12,7017594
+E0754,Finanzas,Tesorería,Técnica,Profesional,5,5595401
+E0755,Operaciones,Operaciones,Técnica,Senior,11,12828985
+E0756,Operaciones,Operaciones,Técnica,Senior,8,11955215
+E0757,Finanzas,Tesorería,Técnica,Senior,10,12028188
+E0758,Finanzas,Planeación financiera,Directiva,Principal,12,18668097
+E0759,Operaciones,Tecnología,Directiva,Senior,16,16759758
+E0760,Comercial,Clientes mayoristas,Directiva,Especialista,7,10290662
+E0761,Comercial,Clientes mayoristas,Técnica,Senior,8,12115946
+E0762,Comercial,Clientes mayoristas,Técnica,Especialista,9,9254150
+E0763,Finanzas,Tesorería,Técnica,Profesional,3,5214963
+E0764,Operaciones,Tecnología,Técnica,Analista,8,5224485
+E0765,Comercial,Clientes menores,Técnica,Especialista,6,8068743
+E0766,Operaciones,Tecnología,Técnica,Profesional,5,6775374
+E0767,Talento,Recursos humanos,Técnica,Especialista,12,9857425
+E0768,Finanzas,Planeación financiera,Técnica,Especialista,9,8774964
+E0769,Operaciones,Tecnología,Técnica,Profesional,11,7805564
+E0770,Talento,Recursos humanos,Técnica,Especialista,5,8136699
+E0771,Comercial,Clientes mayoristas,Técnica,Profesional,6,6707864
+E0772,Comercial,Clientes mayoristas,Directiva,Principal,16,20103767
+E0773,Comercial,Clientes menores,Técnica,Profesional,2,4405094
+E0774,Talento,Recursos humanos,Directiva,Especialista,8,10969520
+E0775,Comercial,Clientes mayoristas,Técnica,Especialista,12,10622429
+E0776,Operaciones,Tecnología,Directiva,Senior,11,14688180
+E0777,Finanzas,Planeación financiera,Técnica,Especialista,11,9705167
+E0778,Talento,Recursos humanos,Técnica,Senior,14,13234578
+E0779,Finanzas,Planeación financiera,Técnica,Profesional,2,5581316
+E0780,Comercial,Clientes mayoristas,Técnica,Profesional,4,6146666
+E0781,Operaciones,Tecnología,Técnica,Especialista,13,10708638
+E0782,Talento,Recursos humanos,Técnica,Analista,4,4232313
+E0783,Finanzas,Tesorería,Técnica,Profesional,2,4655927
+E0784,Finanzas,Planeación financiera,Técnica,Profesional,4,6511804
+E0785,Talento,Recursos humanos,Técnica,Especialista,5,8371650
+E0786,Operaciones,Operaciones,Técnica,Analista,4,4564050
+E0787,Talento,Recursos humanos,Técnica,Principal,14,17769262
+E0788,Operaciones,Tecnología,Directiva,Especialista,9,12107894
+E0789,Operaciones,Tecnología,Técnica,Analista,2,4115820
+E0790,Operaciones,Tecnología,Técnica,Especialista,8,9741243
+E0791,Talento,Recursos humanos,Directiva,Especialista,7,10247637
+E0792,Finanzas,Tesorería,Técnica,Analista,8,4596645
+E0793,Operaciones,Tecnología,Técnica,Analista,5,4938233
+E0794,Comercial,Clientes mayoristas,Directiva,Senior,14,15664061
+E0795,Comercial,Clientes menores,Técnica,Profesional,6,5157857
+E0796,Comercial,Clientes menores,Técnica,Profesional,6,5136611
+E0797,Finanzas,Planeación financiera,Directiva,Principal,14,19528777
+E0798,Finanzas,Tesorería,Directiva,Principal,18,18989263
+E0799,Talento,Recursos humanos,Técnica,Senior,17,13714124
+E0800,Operaciones,Operaciones,Técnica,Especialista,13,9657316
+E0801,Comercial,Clientes menores,Técnica,Especialista,6,7688054
+E0802,Operaciones,Operaciones,Técnica,Senior,8,12148039
+E0803,Operaciones,Tecnología,Técnica,Senior,14,13997901
+E0804,Finanzas,Planeación financiera,Técnica,Senior,9,12284206
+E0805,Talento,Recursos humanos,Directiva,Principal,16,19247966
+E0806,Comercial,Clientes mayoristas,Directiva,Senior,11,15821223
+E0807,Operaciones,Operaciones,Técnica,Senior,21,14843503
+E0808,Comercial,Clientes mayoristas,Técnica,Profesional,2,6205707
+E0809,Comercial,Clientes mayoristas,Técnica,Especialista,9,9555970
+E0810,Operaciones,Operaciones,Técnica,Profesional,6,5901673
+E0811,Operaciones,Tecnología,Técnica,Especialista,8,9810291
+E0812,Comercial,Clientes mayoristas,Técnica,Especialista,6,9533627
+E0813,Operaciones,Operaciones,Directiva,Principal,13,18433441
+E0814,Talento,Recursos humanos,Directiva,Especialista,8,10512027
+E0815,Comercial,Clientes mayoristas,Técnica,Senior,17,14502146
+E0816,Comercial,Clientes mayoristas,Técnica,Senior,9,12509338
+E0817,Talento,Recursos humanos,Técnica,Analista,1,3359254
+E0818,Comercial,Clientes menores,Directiva,Principal,15,19074648
+E0819,Comercial,Clientes mayoristas,Técnica,Profesional,2,5975130
+E0820,Finanzas,Planeación financiera,Técnica,Especialista,5,8333399
+E0821,Finanzas,Planeación financiera,Directiva,Principal,17,19480291
+E0822,Finanzas,Tesorería,Técnica,Analista,2,2971898
+E0823,Finanzas,Tesorería,Técnica,Especialista,13,9702287
+E0824,Comercial,Clientes mayoristas,Técnica,Principal,12,17159507
+E0825,Comercial,Clientes mayoristas,Técnica,Senior,13,13488109
+E0826,Finanzas,Tesorería,Técnica,Especialista,9,8924529
+E0827,Comercial,Clientes mayoristas,Técnica,Analista,4,4824867
+E0828,Operaciones,Operaciones,Técnica,Analista,6,4576625
+E0829,Operaciones,Tecnología,Técnica,Especialista,9,10055148
+E0830,Finanzas,Planeación financiera,Técnica,Profesional,2,5519599
+E0831,Finanzas,Planeación financiera,Directiva,Senior,12,15091172
+E0832,Operaciones,Operaciones,Técnica,Senior,13,13027677
+E0833,Operaciones,Tecnología,Técnica,Especialista,10,10074293
+E0834,Comercial,Clientes mayoristas,Directiva,Especialista,8,11103019
+E0835,Finanzas,Tesorería,Directiva,Senior,8,12798894
+E0836,Finanzas,Planeación financiera,Técnica,Analista,8,5686284
+E0837,Finanzas,Tesorería,Técnica,Principal,17,17461065
+E0838,Comercial,Clientes mayoristas,Técnica,Especialista,8,9660367
+E0839,Comercial,Clientes mayoristas,Técnica,Especialista,11,10520213
+E0840,Finanzas,Tesorería,Técnica,Principal,18,18009313
+E0841,Operaciones,Operaciones,Técnica,Principal,14,17398257
+E0842,Operaciones,Tecnología,Técnica,Profesional,9,7691786
+E0843,Comercial,Clientes mayoristas,Técnica,Senior,14,13799118
+E0844,Talento,Recursos humanos,Técnica,Profesional,4,5839861
+E0845,Comercial,Clientes mayoristas,Técnica,Especialista,9,10158587
+E0846,Operaciones,Tecnología,Técnica,Especialista,10,10765956
+E0847,Finanzas,Planeación financiera,Técnica,Especialista,5,8138389
+E0848,Operaciones,Operaciones,Técnica,Especialista,9,9302327
+E0849,Operaciones,Operaciones,Técnica,Principal,14,17340343
+E0850,Finanzas,Tesorería,Técnica,Profesional,4,5043759
+E0851,Talento,Recursos humanos,Técnica,Principal,18,18425357
+E0852,Operaciones,Operaciones,Técnica,Analista,1,3792913
+E0853,Talento,Recursos humanos,Técnica,Especialista,7,8590789
+E0854,Talento,Recursos humanos,Técnica,Especialista,10,8677258
+E0855,Operaciones,Tecnología,Técnica,Analista,10,7031261
+E0856,Comercial,Clientes menores,Técnica,Profesional,4,4673869
+E0857,Finanzas,Planeación financiera,Directiva,Senior,13,15127063
+E0858,Operaciones,Operaciones,Directiva,Profesional,4,7382657
+E0859,Comercial,Clientes menores,Directiva,Especialista,7,9647559
+E0860,Finanzas,Planeación financiera,Técnica,Senior,12,13309985
+E0861,Finanzas,Planeación financiera,Técnica,Senior,12,13623998
+E0862,Comercial,Clientes mayoristas,Técnica,Profesional,9,6831533
+E0863,Comercial,Clientes menores,Técnica,Senior,10,11475515
+E0864,Operaciones,Tecnología,Técnica,Analista,1,4004430
+E0865,Talento,Recursos humanos,Directiva,Principal,19,20353120
+E0866,Operaciones,Tecnología,Directiva,Senior,11,14898940
+E0867,Comercial,Clientes mayoristas,Directiva,Senior,12,14748088
+E0868,Comercial,Clientes mayoristas,Técnica,Especialista,8,9143213
+E0869,Operaciones,Tecnología,Directiva,Especialista,6,10709502
+E0870,Finanzas,Tesorería,Directiva,Senior,9,13241107
+E0871,Comercial,Clientes mayoristas,Directiva,Senior,14,15403483
+E0872,Operaciones,Tecnología,Técnica,Profesional,2,6217749
+E0873,Comercial,Clientes mayoristas,Técnica,Principal,15,18628779
+E0874,Talento,Recursos humanos,Directiva,Especialista,12,11513837
+E0875,Comercial,Clientes mayoristas,Técnica,Senior,9,13222338
+E0876,Talento,Recursos humanos,Directiva,Principal,18,20039762
+E0877,Operaciones,Operaciones,Técnica,Especialista,12,9611600
+E0878,Finanzas,Planeación financiera,Técnica,Especialista,10,9759808
+E0879,Finanzas,Planeación financiera,Técnica,Especialista,13,10196287
+E0880,Finanzas,Planeación financiera,Técnica,Senior,13,13378694
+E0881,Operaciones,Tecnología,Técnica,Profesional,5,6512981
+E0882,Comercial,Clientes menores,Técnica,Profesional,4,4840339
+E0883,Comercial,Clientes mayoristas,Directiva,Principal,17,19626991
+E0884,Operaciones,Tecnología,Técnica,Senior,12,13658871
+E0885,Finanzas,Planeación financiera,Directiva,Principal,16,19157606
+E0886,Operaciones,Tecnología,Técnica,Analista,0,4214643
+E0887,Finanzas,Tesorería,Técnica,Senior,16,13031564
+E0888,Operaciones,Operaciones,Técnica,Senior,9,12758276
+E0889,Operaciones,Tecnología,Técnica,Profesional,4,6442285
+E0890,Operaciones,Operaciones,Técnica,Especialista,5,8751586
+E0891,Finanzas,Planeación financiera,Técnica,Profesional,7,6876526
+E0892,Operaciones,Operaciones,Técnica,Especialista,12,10410264
+E0893,Comercial,Clientes mayoristas,Técnica,Senior,12,13083075
+E0894,Operaciones,Operaciones,Directiva,Principal,13,19343741
+E0895,Comercial,Clientes menores,Directiva,Especialista,11,10986498
+E0896,Comercial,Clientes mayoristas,Técnica,Especialista,5,8520652
+E0897,Talento,Recursos humanos,Técnica,Profesional,3,5484579
+E0898,Finanzas,Planeación financiera,Técnica,Profesional,8,7515503
+E0899,Comercial,Clientes mayoristas,Técnica,Principal,19,18206451
+E0900,Operaciones,Tecnología,Técnica,Profesional,10,7388961
+E0901,Operaciones,Tecnología,Técnica,Especialista,12,9969170
+E0902,Comercial,Clientes mayoristas,Directiva,Especialista,10,11921607
+E0903,Operaciones,Operaciones,Directiva,Especialista,6,9780697
+E0904,Talento,Recursos humanos,Técnica,Especialista,11,9558084
+E0905,Operaciones,Tecnología,Técnica,Profesional,7,6561154
+E0906,Comercial,Clientes mayoristas,Técnica,Senior,9,12538932
+E0907,Comercial,Clientes menores,Técnica,Profesional,2,4458181
+E0908,Comercial,Clientes menores,Técnica,Senior,13,12180701
+E0909,Operaciones,Tecnología,Técnica,Especialista,8,9757961
+E0910,Finanzas,Planeación financiera,Técnica,Profesional,6,6712533
+E0911,Comercial,Clientes menores,Técnica,Profesional,12,7188367
+E0912,Operaciones,Tecnología,Directiva,Senior,9,14684614
+E0913,Finanzas,Tesorería,Técnica,Principal,15,17065582
+E0914,Comercial,Clientes mayoristas,Técnica,Analista,5,4816362
+E0915,Operaciones,Tecnología,Técnica,Profesional,13,8492498
+E0916,Finanzas,Planeación financiera,Directiva,Principal,17,19473050
+E0917,Comercial,Clientes mayoristas,Directiva,Senior,9,13937203
+E0918,Talento,Recursos humanos,Técnica,Senior,15,12885463
+E0919,Operaciones,Operaciones,Directiva,Profesional,7,8590875
+E0920,Operaciones,Tecnología,Directiva,Especialista,6,11504569
+E0921,Finanzas,Tesorería,Directiva,Senior,9,13642779
+E0922,Comercial,Clientes menores,Técnica,Analista,4,3202093
+E0923,Operaciones,Tecnología,Técnica,Especialista,11,10533522
+E0924,Comercial,Clientes mayoristas,Directiva,Senior,12,15738496
+E0925,Operaciones,Tecnología,Técnica,Principal,15,18397510
+E0926,Operaciones,Operaciones,Técnica,Profesional,4,5915652
+E0927,Talento,Recursos humanos,Técnica,Especialista,12,10092180
+E0928,Operaciones,Tecnología,Técnica,Analista,7,6008585
+E0929,Finanzas,Tesorería,Directiva,Principal,16,18601616
+E0930,Operaciones,Tecnología,Directiva,Senior,8,14879218
+E0931,Talento,Recursos humanos,Técnica,Analista,3,3710978
+E0932,Comercial,Clientes mayoristas,Técnica,Especialista,5,8405070
+E0933,Finanzas,Tesorería,Técnica,Especialista,13,9455624
+E0934,Comercial,Clientes mayoristas,Directiva,Especialista,8,10668920
+E0935,Operaciones,Operaciones,Técnica,Analista,6,3897017
+E0936,Comercial,Clientes mayoristas,Directiva,Senior,14,15222381
+E0937,Finanzas,Planeación financiera,Directiva,Senior,15,15724185
+E0938,Operaciones,Tecnología,Técnica,Profesional,12,8971308
+E0939,Finanzas,Planeación financiera,Técnica,Especialista,8,9180861
+E0940,Talento,Recursos humanos,Técnica,Profesional,6,6204784
+E0941,Comercial,Clientes mayoristas,Técnica,Especialista,7,8817301
+E0942,Comercial,Clientes menores,Técnica,Senior,14,12548010
+E0943,Operaciones,Tecnología,Directiva,Senior,13,16191471
+E0944,Operaciones,Operaciones,Directiva,Especialista,9,10977551
+E0945,Finanzas,Tesorería,Técnica,Profesional,9,7080692
+E0946,Finanzas,Planeación financiera,Técnica,Senior,11,12611384
+E0947,Finanzas,Tesorería,Técnica,Principal,16,16627125
+E0948,Operaciones,Operaciones,Técnica,Profesional,6,6693037
+E0949,Comercial,Clientes mayoristas,Técnica,Especialista,8,9711996
+E0950,Operaciones,Tecnología,Directiva,Senior,10,15082265
+E0951,Comercial,Clientes menores,Directiva,Profesional,3,7665871
+E0952,Comercial,Clientes mayoristas,Técnica,Especialista,12,10957688
+E0953,Finanzas,Planeación financiera,Técnica,Especialista,15,10853982
+E0954,Operaciones,Tecnología,Técnica,Profesional,13,9223776
+E0955,Operaciones,Tecnología,Técnica,Principal,12,17409149
+E0956,Comercial,Clientes mayoristas,Directiva,Senior,8,14365053
+E0957,Comercial,Clientes mayoristas,Directiva,Principal,18,19713707
+E0958,Finanzas,Tesorería,Técnica,Especialista,7,8619069
+E0959,Comercial,Clientes mayoristas,Técnica,Senior,14,13544577
+E0960,Comercial,Clientes mayoristas,Técnica,Especialista,9,9111887
+E0961,Talento,Recursos humanos,Técnica,Especialista,14,10428839
+E0962,Finanzas,Planeación financiera,Técnica,Analista,3,3737603
+E0963,Finanzas,Planeación financiera,Técnica,Especialista,5,7819201
+E0964,Operaciones,Operaciones,Técnica,Analista,0,2650167
+E0965,Comercial,Clientes menores,Técnica,Analista,9,4216642
+E0966,Talento,Recursos humanos,Técnica,Senior,10,12133951
+E0967,Talento,Recursos humanos,Técnica,Profesional,5,5713216
+E0968,Operaciones,Tecnología,Técnica,Principal,19,19114666
+E0969,Comercial,Clientes menores,Técnica,Especialista,5,7176087
+E0970,Finanzas,Tesorería,Técnica,Senior,15,14030291
+E0971,Talento,Recursos humanos,Directiva,Profesional,13,9696622
+E0972,Finanzas,Planeación financiera,Directiva,Especialista,9,11300683
+E0973,Comercial,Clientes menores,Técnica,Analista,3,3489376
+E0974,Comercial,Clientes menores,Técnica,Especialista,7,7989475
+E0975,Finanzas,Tesorería,Técnica,Senior,12,12553379
+E0976,Operaciones,Tecnología,Directiva,Principal,14,20076298
+E0977,Operaciones,Operaciones,Técnica,Principal,16,17383780
+E0978,Operaciones,Operaciones,Técnica,Especialista,12,10297156
+E0979,Operaciones,Operaciones,Técnica,Profesional,6,5940529
+E0980,Finanzas,Planeación financiera,Técnica,Especialista,11,10102626
+E0981,Talento,Recursos humanos,Técnica,Profesional,8,6986717
+E0982,Comercial,Clientes mayoristas,Directiva,Especialista,14,11794750
+E0983,Talento,Recursos humanos,Técnica,Senior,10,12261859
+E0984,Comercial,Clientes mayoristas,Técnica,Senior,16,14680492
+E0985,Operaciones,Operaciones,Técnica,Profesional,8,6861381
+E0986,Comercial,Clientes mayoristas,Técnica,Especialista,13,11264513
+E0987,Talento,Recursos humanos,Técnica,Senior,16,13875042
+E0988,Operaciones,Operaciones,Directiva,Principal,12,18990385
+E0989,Operaciones,Operaciones,Técnica,Especialista,13,10470935
+E0990,Comercial,Clientes menores,Técnica,Especialista,11,8764475
+E0991,Operaciones,Operaciones,Directiva,Especialista,13,12256372
+E0992,Comercial,Clientes menores,Técnica,Analista,4,3345872
+E0993,Talento,Recursos humanos,Técnica,Analista,7,4878896
+E0994,Talento,Recursos humanos,Directiva,Senior,15,15539708
+E0995,Finanzas,Planeación financiera,Técnica,Profesional,10,7075482
+E0996,Comercial,Clientes menores,Técnica,Profesional,2,4092069
+E0997,Operaciones,Operaciones,Técnica,Especialista,12,10047505
+E0998,Comercial,Clientes menores,Técnica,Senior,14,12369077
+E0999,Talento,Recursos humanos,Directiva,Senior,12,13824848
+E1000,Finanzas,Planeación financiera,Directiva,Especialista,8,11000187
