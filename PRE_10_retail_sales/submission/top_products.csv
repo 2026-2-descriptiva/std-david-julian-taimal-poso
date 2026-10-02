@@ -1,0 +1,16 @@
+Category,ProductName,orders,net_sales,return_rate
+Electronics,Product_444,3,5980.08,0.0
+Electronics,Product_247,2,4930.72,0.0
+Electronics,Product_470,3,4721.76,0.3333333333333333
+Electronics,Product_295,5,4704.57,0.0
+Electronics,Product_333,2,4591.48,0.0
+Fashion,Product_387,2,6080.21,0.0
+Fashion,Product_228,4,5494.55,0.25
+Fashion,Product_328,2,5073.870000000001,0.0
+Fashion,Product_174,3,4734.51,0.0
+Fashion,Product_220,3,4212.01,0.3333333333333333
+Home & Garden,Product_147,3,7167.45,0.3333333333333333
+Home & Garden,Product_200,4,6457.46,0.25
+Home & Garden,Product_496,6,6351.110000000001,0.3333333333333333
+Home & Garden,Product_215,4,5001.8099999999995,0.0
+Home & Garden,Product_274,3,4440.52,0.0

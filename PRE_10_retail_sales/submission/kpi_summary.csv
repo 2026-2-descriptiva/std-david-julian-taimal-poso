@@ -1,0 +1,2 @@
+orders,customers,gross_sales,returned_amount,net_sales,return_rate_by_orders,return_rate_by_value,net_sales_per_order
+1000,428,1280745.55,643703.02,637042.53,0.516,0.5026002393683897,637.04253
