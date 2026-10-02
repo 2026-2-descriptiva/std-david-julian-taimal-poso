@@ -1,0 +1,2 @@
+scheduled_flights,cancelled_flights,operated_flights,delayed_departure_15_flights,positive_departure_delay_minutes,cancellation_rate,delay_rate,mean_positive_delay_minutes
+21607106.0,420175.0,21186931.0,4324953.0,270951248.0,0.019446148873430807,0.2041330573078281,12.788602936404523
