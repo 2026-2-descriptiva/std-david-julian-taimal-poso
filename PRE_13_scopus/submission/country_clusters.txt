@@ -1,0 +1,23 @@
+Australia; Bulgaria; China; Cyprus; Ireland; Malaysia; Netherlands; New Zealand; Nigeria; South Africa; United Kingdom; United States of America
+Austria; Finland; Israel; Italy; Japan; Mexico; Norway; Spain; Sweden
+Algeria; Canada; Denmark; France; Iran; United Arab Emirates; West Bank
+Jordan; Lebanon; Morocco; Oman; Pakistan; Portugal; Tunisia
+Egypt; Germany; India; Saudi Arabia; South Korea; Thailand; Vietnam
+Belarus; Hungary; Macedonia
+Belgium; Greece
+Lithuania; Poland
+Kazakhstan; Ukraine
+Brazil
+Colombia
+Costa Rica
+Croatia
+Indonesia
+Iraq
+Philippines
+Republic of Serbia
+Romania
+Russia
+Slovakia
+Slovenia
+Taiwan
+Turkey
