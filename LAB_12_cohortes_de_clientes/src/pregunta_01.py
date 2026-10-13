@@ -1,4 +1,7 @@
+from pathlib import Path
+import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
 
 def build_cohort_analysis() -> pd.DataFrame:
@@ -35,13 +38,75 @@ def build_cohort_analysis() -> pd.DataFrame:
        retención cero: déjelos vacíos en el mapa.
 
     La función también debe retornar la tabla de retención.
-
-    Ejemplo del formato de `cohort_retention.csv`:
-
-        cohort_month,period_index,active_customers,cohort_size,retention_rate
-        2022-01,0,100,100,1.0
-        2022-01,1,26,100,0.26
-        ...
     """
+    activity_dir = Path(__file__).resolve().parents[1]
+    data_path = activity_dir / "data" / "sales.csv.gz"
+    submission_dir = activity_dir / "submission"
+    submission_dir.mkdir(parents=True, exist_ok=True)
 
-    raise NotImplementedError
+    df = pd.read_csv(data_path)
+    df["OrderDate"] = pd.to_datetime(df["OrderDate"])
+    df["order_month"] = df["OrderDate"].dt.to_period("M")
+
+    cohorts = df.groupby("CustomerID")["order_month"].min().reset_index()
+    cohorts = cohorts.rename(columns={"order_month": "cohort"})
+    df = pd.merge(df, cohorts, on="CustomerID")
+
+    df["cohort_month"] = df["cohort"].dt.strftime("%Y-%m")
+    df["period_index"] = (
+        (df["order_month"].dt.year - df["cohort"].dt.year) * 12
+        + (df["order_month"].dt.month - df["cohort"].dt.month)
+    )
+
+    grouped = (
+        df.groupby(["cohort_month", "period_index"])["CustomerID"]
+        .nunique()
+        .reset_index()
+    )
+    grouped = grouped.rename(columns={"CustomerID": "active_customers"})
+
+    sizes = (
+        grouped[grouped["period_index"] == 0]
+        .set_index("cohort_month")["active_customers"]
+        .to_dict()
+    )
+    grouped["cohort_size"] = grouped["cohort_month"].map(sizes)
+    grouped["retention_rate"] = grouped["active_customers"] / grouped["cohort_size"]
+
+    grouped = (
+        grouped.sort_values(["cohort_month", "period_index"])
+        .reset_index(drop=True)[
+            [
+                "cohort_month",
+                "period_index",
+                "active_customers",
+                "cohort_size",
+                "retention_rate",
+            ]
+        ]
+    )
+
+    grouped.to_csv(submission_dir / "cohort_retention.csv", index=False)
+
+    # Generar mapa de calor
+    pivot = grouped.pivot(
+        index="cohort_month", columns="period_index", values="retention_rate"
+    )
+
+    plt.figure(figsize=(10, 6))
+    sns.heatmap(
+        pivot * 100,
+        annot=True,
+        fmt=".1f",
+        cmap="Blues",
+        cbar=True,
+        mask=pivot.isna(),
+    )
+    plt.title("Cohort Retention Rate (%)")
+    plt.xlabel("Period Index")
+    plt.ylabel("Cohort Month")
+    plt.tight_layout()
+    plt.savefig(submission_dir / "cohort_retention_heatmap.png")
+    plt.close()
+
+    return grouped

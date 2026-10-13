@@ -1,0 +1,42 @@
+{
+    "original_k": 1,
+    "original_unique_records": 1330,
+    "schemes": {
+        "with_children": {
+            "quasi_identifiers": [
+                "age_group",
+                "sex",
+                "bmi_group",
+                "children_group",
+                "region"
+            ],
+            "equivalence_classes": 278,
+            "k_before_suppression": 1,
+            "suppressed_records": 395,
+            "published_records": 943,
+            "published_classes": 105,
+            "classes_without_smoker_diversity": 21,
+            "records_without_smoker_diversity": 159
+        },
+        "without_children": {
+            "quasi_identifiers": [
+                "age_group",
+                "sex",
+                "bmi_group",
+                "region"
+            ],
+            "equivalence_classes": 108,
+            "k_before_suppression": 1,
+            "suppressed_records": 55,
+            "published_records": 1283,
+            "published_classes": 85,
+            "classes_without_smoker_diversity": 6,
+            "records_without_smoker_diversity": 59
+        }
+    },
+    "selected_scheme": "without_children",
+    "mean_charges_original": 13270.422265141257,
+    "mean_charges_published": 13351.646091581448,
+    "smoker_rate_original": 0.20478325859491778,
+    "smoker_rate_published": 0.20109119251753702
+}

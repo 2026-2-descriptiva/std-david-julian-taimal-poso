@@ -1,3 +1,7 @@
+from pathlib import Path
+import pandas as pd
+
+
 def pregunta_01():
     """
     Las frases de este laboratorio no están en una tabla, sino en miles de
@@ -25,5 +29,18 @@ def pregunta_01():
         "Cardona slowed her vehicle , turned around ...",neutral
         ...
     """
+    activity_dir = Path(__file__).resolve().parents[1]
+    data_dir = activity_dir / "data"
+    submission_dir = activity_dir / "submission"
+    submission_dir.mkdir(parents=True, exist_ok=True)
 
-    raise NotImplementedError
+    for split in ["train", "test"]:
+        records = []
+        split_dir = data_dir / split
+        for target in sorted([d.name for d in split_dir.iterdir() if d.is_dir()]):
+            target_dir = split_dir / target
+            for f in sorted(target_dir.glob("*.txt")):
+                txt = f.read_text(encoding="utf-8").strip()
+                records.append({"phrase": txt, "target": target})
+        df = pd.DataFrame(records)
+        df.to_csv(submission_dir / f"{split}_dataset.csv", index=False)

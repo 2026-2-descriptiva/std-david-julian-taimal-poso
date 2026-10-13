@@ -1,3 +1,7 @@
+from pathlib import Path
+import pandas as pd
+
+
 def pregunta_01():
     """
     ¿Cuántos registros tiene la tabla `data/tbl0.tsv`? Retorne la cantidad
@@ -7,5 +11,9 @@ def pregunta_01():
 
         40
     """
+    filepath = Path("data/tbl0.tsv")
+    if not filepath.exists():
+        filepath = Path(__file__).resolve().parents[1] / "data" / "tbl0.tsv"
 
-    raise NotImplementedError
+    df = pd.read_csv(filepath, sep="\t")
+    return len(df)

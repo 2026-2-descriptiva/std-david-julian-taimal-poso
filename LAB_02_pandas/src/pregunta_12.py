@@ -1,3 +1,7 @@
+from pathlib import Path
+import pandas as pd
+
+
 def pregunta_12():
     """
     En `data/tbl2.tsv`, cada valor de la columna `c0` aparece en varias
@@ -14,5 +18,16 @@ def pregunta_12():
         2    2        ccc:6,ddd:2,ggg:5,jjj:1
         ...
     """
+    filepath = Path("data/tbl2.tsv")
+    if not filepath.exists():
+        filepath = Path(__file__).resolve().parents[1] / "data" / "tbl2.tsv"
 
-    raise NotImplementedError
+    df = pd.read_csv(filepath, sep="\t")
+    df["pair"] = df["c5a"] + ":" + df["c5b"].astype(str)
+    res = (
+        df.groupby("c0")["pair"]
+        .apply(lambda s: ",".join(sorted(s)))
+        .reset_index()
+    )
+    res.columns = ["c0", "c5"]
+    return res

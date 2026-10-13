@@ -27,3 +27,5 @@
 --
 --  Escriba su consulta debajo de esta línea.
 --
+
+SELECT * FROM tbl1 WHERE K0 NOT IN ("A", "B") AND c13 NOT IN (200, 900) ORDER BY c14 ASC;

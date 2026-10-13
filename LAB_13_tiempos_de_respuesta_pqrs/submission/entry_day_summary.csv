@@ -1,0 +1,8 @@
+day_name,requests,median_calendar_days,median_business_days
+Monday,27591,9.0,7.0
+Tuesday,33221,9.0,7.0
+Wednesday,31065,9.0,7.0
+Thursday,28008,9.0,6.0
+Friday,25121,9.0,5.0
+Saturday,1434,9.0,6.0
+Sunday,703,9.0,7.0
